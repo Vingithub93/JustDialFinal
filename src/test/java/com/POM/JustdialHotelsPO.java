@@ -22,5 +22,7 @@ public class JustdialHotelsPO extends BaseClass{
 		return ele5StarHotelLink;
 	}
 	
+	
+	
 
 }
