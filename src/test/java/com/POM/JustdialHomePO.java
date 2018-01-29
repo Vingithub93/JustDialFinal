@@ -30,5 +30,12 @@ public class JustdialHomePO extends BaseClass{
 		return eleSignupLink;
 	}
 	
+	@FindBy(id="hotkeys_text_32")
+	private WebElement eleHotelsLink;
+	
+	public WebElement getEleHotelsLink()
+	{
+		return eleHotelsLink;
+	}
 
 }
